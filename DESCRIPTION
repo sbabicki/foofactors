@@ -8,8 +8,7 @@ Authors@R:
            email = "sbabicki@gmail.com",
            comment = c(CCID = "sbabicki"))
 Description: Individual assignment 2, adapted from https://r-pkgs.org/whole-game.html
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
