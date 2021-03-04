@@ -2,12 +2,12 @@ Package: foofactors
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Sasha",
+           family = "Babicki",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "sbabicki@gmail.com",
+           comment = c(CCID = "sbabicki"))
+Description: Individual assignment 2, adapted from https://r-pkgs.org/whole-game.html
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
