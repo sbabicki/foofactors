@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "sbabicki@gmail.com",
            comment = c(CCID = "sbabicki"))
-Description: Individual assignment 2, adapted from https://r-pkgs.org/whole-game.html
+Description: Individual assignment 2, adapted from https://r-pkgs.org/whole-game.html.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
